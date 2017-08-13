@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository.
+
+Hello,
+
+My name is Ben and this is my first Github project. This is a branch.
